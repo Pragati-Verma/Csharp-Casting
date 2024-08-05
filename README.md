@@ -20,10 +20,10 @@ Console.WriteLine($"Divide value3 by value1, display the result as a float: {res
 --------------------------------------------------------------
 Replace the code comments in the starter code with your own code to solve the challenge:
 --------------------------------------------------------------
-Solve for result1: Divide value1 by value2, display the result as an int
-Solve for result2: Divide value2 by value3, display the result as a decimal
-Solve for result3: Divide value3 by value1, display the result as a float
-Solve the challenge so that your output resembles:
+1. Solve for result1: Divide value1 by value2, display the result as an int
+2. Solve for result2: Divide value2 by value3, display the result as a decimal
+3. Solve for result3: Divide value3 by value1, display the result as a float
+4. Solve the challenge so that your output resembles:
 --------------------------------------------------------------
 Output
 --------------------------------------------------------------
